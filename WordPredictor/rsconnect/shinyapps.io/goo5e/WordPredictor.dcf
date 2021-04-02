@@ -1,0 +1,12 @@
+name: WordPredictor
+title: WordPredictor
+username:
+account: goo5e
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3594587
+bundleId: 4425021
+url: https://goo5e.shinyapps.io/WordPredictor/
+when: 1617389540.54813
+asMultiple: FALSE
+asStatic: FALSE
