@@ -71,3 +71,4 @@ quadFreq <- data.table(tok = word(names(quadGram),1,3), pred = word(names(quadGr
 saveRDS(quadFreq, "data/quadgram.RDS")
 
 
+
